@@ -3,6 +3,8 @@ type: object
 description: A standard error object.
 x-tags:
   - Common
+x-examples:
+  example-1: {}
 properties:
   code:
     type: string
